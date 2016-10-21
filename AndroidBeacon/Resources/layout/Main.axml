@@ -19,4 +19,9 @@
         android:id="@+id/imageView"
         android:scaleType="fitCenter"
         android:layout_margin="20dp" />
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1" />
 </LinearLayout>

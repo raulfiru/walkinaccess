@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{84E851D7-FDA0-4F88-B68D-D6A63B5C9DD5}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.registationBeacon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.779D763C-0141-4080-9AFB-3B92495AD128" />
-  <MonoDevelop.Ide.ItemProperties.AndroidBeacon AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce04160485fa873c05" />
+  <MonoDevelop.Ide.ItemProperties.AndroidBeacon AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="walkinaccess Status">
     <Files>
       <File FileName="AndroidBeacon/MainActivity.cs" Line="1" Column="1" />
