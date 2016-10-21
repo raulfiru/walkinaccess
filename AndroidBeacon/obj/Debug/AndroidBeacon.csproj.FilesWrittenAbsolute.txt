@@ -1,0 +1,1 @@
+/Users/raul/AndroidBeaconDemo/AndroidBeacon/obj/Debug/MonoAndroid,Version=v4.3.AssemblyAttribute.cs

@@ -1,0 +1,8 @@
+/Users/raul/AndroidBeaconDemo/iOSBeacon/bin/iPhone/Debug/iOSBeacon.exe
+/Users/raul/AndroidBeaconDemo/iOSBeacon/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/raul/AndroidBeaconDemo/iOSBeacon/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/raul/AndroidBeaconDemo/iOSBeacon/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/raul/AndroidBeaconDemo/iOSBeacon/obj/iPhone/Debug/optimized/Default-568h@2x.png
+/Users/raul/AndroidBeaconDemo/iOSBeacon/obj/iPhone/Debug/optimized/
+/Users/raul/AndroidBeaconDemo/iOSBeacon/obj/iPhone/Debug/iOSBeacon.csprojResolveAssemblyReference.cache
+/Users/raul/AndroidBeaconDemo/iOSBeacon/obj/iPhone/Debug/iOSBeacon.exe

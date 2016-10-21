@@ -1,0 +1,1 @@
+/Users/raul/AndroidBeaconDemo/iOSBeacon/obj/iPhoneSimulator/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs

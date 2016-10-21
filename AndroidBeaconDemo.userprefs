@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{84E851D7-FDA0-4F88-B68D-D6A63B5C9DD5}|Default">
+  <MonoDevelop.Ide.ItemProperties.registationBeacon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.779D763C-0141-4080-9AFB-3B92495AD128" />
+  <MonoDevelop.Ide.ItemProperties.AndroidBeacon PreferredExecutionTarget="Android.ce04160485fa873c05" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Log">
+    <Files>
+      <File FileName="AndroidBeacon/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="AndroidBeacon/RangeNotifier.cs" Line="28" Column="1" />
+      <File FileName="AndroidBeaconDemo Status" />
+      <File FileName="AndroidBeacon/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="Log" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/raul/AndroidBeaconDemo/AndroidBeacon/MainActivity.cs" line="16" column="1" />
+      <Breakpoint file="/Users/raul/AndroidBeaconDemo/AndroidBeacon/MainActivity.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.iOSBeacon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.31E775BE-D71A-4F52-A33B-3FC02B28D139" />
+</Properties>
