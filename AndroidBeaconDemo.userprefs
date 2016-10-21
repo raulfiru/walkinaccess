@@ -1,13 +1,16 @@
-﻿<Properties StartupConfiguration="{84E851D7-FDA0-4F88-B68D-D6A63B5C9DD5}|Default">
+﻿<Properties StartupConfiguration="{84E851D7-FDA0-4F88-B68D-D6A63B5C9DD5}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.registationBeacon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.779D763C-0141-4080-9AFB-3B92495AD128" />
-  <MonoDevelop.Ide.ItemProperties.AndroidBeacon PreferredExecutionTarget="Android.ce04160485fa873c05" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Log">
+  <MonoDevelop.Ide.ItemProperties.AndroidBeacon AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce04160485fa873c05" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="walkinaccess Status">
     <Files>
       <File FileName="AndroidBeacon/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="AndroidBeacon/RangeNotifier.cs" Line="28" Column="1" />
-      <File FileName="AndroidBeaconDemo Status" />
+      <File FileName="AndroidBeacon/RangeNotifier.cs" Line="26" Column="1" />
       <File FileName="AndroidBeacon/Resources/Resource.designer.cs" Line="1" Column="1" />
-      <File FileName="Log" />
+      <File FileName="iOSBeacon/Main.cs" Line="4" Column="15" />
+      <File FileName="AndroidBeacon/MonitorNotifier.cs" Line="1" Column="1" />
+      <File FileName="AndroidBeacon/Resources/AboutResources.txt" Line="1" Column="1" />
+      <File FileName="iOSBeacon/iOSBeaconViewController.cs" Line="1" Column="1" />
+      <File FileName="walkinaccess Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -18,5 +21,4 @@
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.iOSBeacon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.31E775BE-D71A-4F52-A33B-3FC02B28D139" />
 </Properties>

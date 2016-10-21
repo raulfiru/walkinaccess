@@ -13,8 +13,8 @@ namespace AndroidBeacon
 	[Activity (Label = "Haufe Hello!", MainLauncher = true)]
 	public class MainActivity : Activity, IBeaconConsumer
 	{
-		const string UUID = "A1F30FF0-0A9F-4DE0-90DA-95F88164942E";
-		const string BEACON_ID = "iOSBeacon";
+		const string UUID = "7ED7EA6B-A50E-4E79-83A0-903200A1D018";
+		const string BEACON_ID = "iBeacon";
 		IBeaconManager beaconMgr;
 		MonitorNotifier monitorNotifier;
 		RangeNotifier rangeNotifier;
@@ -35,8 +35,8 @@ namespace AndroidBeacon
 
 		public void OnIBeaconServiceConnect ()
 		{
-			beaconMgr.SetMonitorNotifier (monitorNotifier);
-			beaconMgr.SetRangeNotifier (rangeNotifier);
+			beaconMgr.SetMonitorNotifier(monitorNotifier);
+			beaconMgr.SetRangeNotifier(rangeNotifier);
 
 			beaconMgr.StartMonitoringBeaconsInRegion (monitoringRegion);
 			beaconMgr.StartRangingBeaconsInRegion (rangingRegion);
